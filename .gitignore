@@ -37,8 +37,7 @@ Thumbs.db
 
 # Spring Boot Specific
 *.log
-**/application*.properties
-**/application*.yml
+
 
 # React Specific
 /public/build
